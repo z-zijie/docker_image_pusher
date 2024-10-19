@@ -1,3 +1,4 @@
 jellyfin/jellyfin:latest
 ubuntu:jammy
 openspeedtest/latest:latest
+jenkins/jenkins
